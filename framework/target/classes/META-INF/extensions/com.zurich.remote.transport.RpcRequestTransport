@@ -1,0 +1,2 @@
+netty=com.zurich.remote.transport.netty.client.NettyRpcClient
+socket=com.zurich.remote.transport.socket.SocketRpcClient
